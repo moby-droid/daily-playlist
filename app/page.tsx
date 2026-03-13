@@ -25,13 +25,16 @@ function getAllPlaylists(): PlaylistData[] {
   
   const files = readdirSync(dataDir)
     .filter(f => f.endsWith('.json') && !f.startsWith('descriptions-'))
-    .sort()
-    .reverse()
   
-  return files.map(f => {
+  const playlists = files.map(f => {
     const content = readFileSync(join(dataDir, f), 'utf-8')
-    return JSON.parse(content)
+    return JSON.parse(content) as PlaylistData
   })
+  
+  // Sort by date descending (newest first)
+  playlists.sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+  
+  return playlists
 }
 
 function getDescriptions(playlistName: string): Record<string, string> {
