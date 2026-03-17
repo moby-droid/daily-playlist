@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-17",
+  "vibe": "Late-night Tokyo to London — dub house grooves, city pop warmth, UK jazz energy, and math-rock precision",
+  "playlistUrl": "https://open.spotify.com/playlist/6IPeVIUf8A09EFHGcjUSTg",
+  "playlistName": "Daily Discoveries — 2026-03-17",
+  "tracks": [
+    {
+      "name": "Do it Again",
+      "artist": "Shinichiro Yokota",
+      "album": "Sounds from the Far East",
+      "art": "https://i.scdn.co/image/ab67616d0000b2734034a418aa5d0a50254ae218",
+      "url": "https://open.spotify.com/track/6tAdGCzNa2TtvVv8XntoA8",
+      "reason": "You've been deep in Soichi Terada lately — Yokota is his Tokyo house counterpart. This one's a hypnotic, stripped-back groove from the Far East scene that should slot right in after those Deepchord sessions.",
+      "isNew": true
+    },
+    {
+      "name": "Abusey Junction",
+      "artist": "Kokoroko",
+      "album": "KOKOROKO",
+      "art": "https://i.scdn.co/image/ab67616d0000b27344d198c8f86d7e2d05864bd0",
+      "url": "https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va",
+      "reason": "With Nubya Garcia and Yussef Dayes in heavy rotation, Kokoroko is the afro-jazz side of that same London scene. Warm horns, gentle pace — proper Tuesday morning energy.",
+      "isNew": true
+    },
+    {
+      "name": "POOL",
+      "artist": "tricot",
+      "album": "T H E",
+      "art": "https://i.scdn.co/image/ab67616d0000b273061e6592466a9234af85ef0b",
+      "url": "https://open.spotify.com/track/6qL7sccU4FQS6zUgKCzNu6",
+      "reason": "You've been playing toe — tricot is their spiritual successor. All-female Japanese math-rock with insane time signatures that somehow still make you want to nod your head.",
+      "isNew": true
+    },
+    {
+      "name": "Snap My Finger (feat. PinkPantheress)",
+      "artist": "KAYTRANADA",
+      "album": "TIMELESS",
+      "art": "https://i.scdn.co/image/ab67616d0000b273b31eed6a2a5bbb6a88ed14e2",
+      "url": "https://open.spotify.com/track/5LyKocU0lhUBlXrFKDxbBO",
+      "reason": "Bridges the gap between your &ME/Emanuel Satie electronic picks and the pop sensibility of your hip-hop rotation. KAYTRANADA's production is surgical — PinkPantheress floats on it.",
+      "isNew": true
+    },
+    {
+      "name": "Glass no Sougen",
+      "artist": "Momoko Kikuchi",
+      "album": "Momoko Kikuchi Special Selection I",
+      "art": "https://i.scdn.co/image/ab67616d0000b2731e74d6e13d02625961e31758",
+      "url": "https://open.spotify.com/track/6DtidEMvO3hdCQtrsixe25",
+      "reason": "You had Tomoko Aran on recently — Momoko Kikuchi is that same 80s city pop world. Lush synths, dreamy vocals, pure late-night Tokyo nostalgia while you're actually in Tokyo.",
+      "isNew": true
+    },
+    {
+      "name": "Archangel",
+      "artist": "Burial",
+      "album": "Untrue",
+      "art": "https://i.scdn.co/image/ab67616d0000b27355018696782c175bdbaa3b5d",
+      "url": "https://open.spotify.com/track/55gnBQAhU5rGzLsXTAx2MM",
+      "reason": "You're deep in the Floating Points / Basic Channel / Deepchord zone — Burial is the UK garage side of that same rainy-window-at-2am energy. If you haven't revisited this in a while, it still hits different.",
+      "isNew": false
+    },
+    {
+      "name": "City Lights (feat. Pase Rock & Substantial)",
+      "artist": "Nujabes",
+      "album": "Spiritual State",
+      "art": "https://i.scdn.co/image/ab67616d0000b2739bad5ebfe556fa260f31bedd",
+      "url": "https://open.spotify.com/track/0fbnqrpTlUdy0PUwMdU8Pl",
+      "reason": "Lo-fi pioneer, Tokyo legend. With you being in Japan right now and the hip-hop in your top tracks, Nujabes threads the needle perfectly — jazzy, mellow, and distinctly Tokyo.",
+      "isNew": true
+    },
+    {
+      "name": "What Am I to Do?",
+      "artist": "Ezra Collective",
+      "album": "You Can't Steal My Joy",
+      "art": "https://i.scdn.co/image/ab67616d0000b2734c6cdbbeac774afd5b9014ef",
+      "url": "https://open.spotify.com/track/7CLzqUggnD6KW5q8GG95ja",
+      "reason": "Same London jazz circuit as Nubya Garcia and Yussef Dayes, but Ezra Collective bring more Afrobeat swagger. This one's got a groove that doesn't let go.",
+      "isNew": true
+    },
+    {
+      "name": "MONSTRUO",
+      "artist": "Tainy",
+      "album": "MONSTRUO",
+      "art": "https://i.scdn.co/image/ab67616d0000b2733ac5f201998caabb651ce4eb",
+      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j",
+      "reason": "Rauw Alejandro was in your recent plays — Tainy is the producer behind half the best reggaeton tracks out there. This one's darker and more experimental than typical reggaeton, production-forward.",
+      "isNew": true
+    },
+    {
+      "name": "Broken",
+      "artist": "Robohands",
+      "album": "Green",
+      "art": "https://i.scdn.co/image/ab67616d0000b2733590435fc73792b0af91e4e7",
+      "url": "https://open.spotify.com/track/17YTREdu2zWaavKxiPjXmy",
+      "reason": "Instrumental soul/funk in the Surprise Chef lane — one-man project making lush, cinematic grooves. Perfect palette cleanser between the heavier electronic stuff and the jazz.",
+      "isNew": true
+    }
+  ]
+}
